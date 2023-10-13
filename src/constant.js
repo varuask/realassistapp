@@ -1,7 +1,7 @@
 const constants = {
   pdfLeftHeader: 'RealAssist.AI',
   pdfRightHeader: '123 Main Street, Denver, NH 02820-4007',
-  backendUrl: 'http://localhost:9000/burglary/data',
+  backendUrl: 'https://realassistbackend.onrender.com/burglary/data',
   graphOptions: {
     plugins: {
       legend: {

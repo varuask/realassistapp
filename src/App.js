@@ -135,7 +135,12 @@ export default function App() {
   const handleClick = async () => {
     setLoading(true);
     try {
-      const response = await fetch(constants.backendUrl);
+      const params = new URLSearchParams();
+      params.append('state', 'AK');
+      params.append('from', 2012);
+      params.append('to', 2022);
+      const url = `${constants.backendUrl}?${params.toString()}`;
+      const response = await fetch(url);
       const data = await response.json();
 
       setGraphData({
