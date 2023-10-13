@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/realassistapp/static/css/main.c00eb648.css",
-    "main.js": "/realassistapp/static/js/main.4d3c1c72.js",
+    "main.js": "/realassistapp/static/js/main.37d38a65.js",
     "static/js/703.88cc4798.chunk.js": "/realassistapp/static/js/703.88cc4798.chunk.js",
     "static/js/513.a0d790b1.chunk.js": "/realassistapp/static/js/513.a0d790b1.chunk.js",
     "static/js/377.c7cff2ba.chunk.js": "/realassistapp/static/js/377.c7cff2ba.chunk.js",
     "index.html": "/realassistapp/index.html",
     "main.c00eb648.css.map": "/realassistapp/static/css/main.c00eb648.css.map",
-    "main.4d3c1c72.js.map": "/realassistapp/static/js/main.4d3c1c72.js.map",
+    "main.37d38a65.js.map": "/realassistapp/static/js/main.37d38a65.js.map",
     "703.88cc4798.chunk.js.map": "/realassistapp/static/js/703.88cc4798.chunk.js.map",
     "513.a0d790b1.chunk.js.map": "/realassistapp/static/js/513.a0d790b1.chunk.js.map",
     "377.c7cff2ba.chunk.js.map": "/realassistapp/static/js/377.c7cff2ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c00eb648.css",
-    "static/js/main.4d3c1c72.js"
+    "static/js/main.37d38a65.js"
   ]
 }
